@@ -1,0 +1,1292 @@
+[
+    [
+        {
+            "query": "cafes in jayanagar",
+            "name": "Tea Villa Cafe Jayanagar",
+            "name_for_emails": "Tea Villa Cafe Jayanagar",
+            "place_id": "ChIJJ9p7sAcVrjsRpAgXeEDhTlI",
+            "google_id": "0x3bae1507b07bda27:0x524ee140781708a4",
+            "full_address": "183, 16, 5th Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+            "borough": "4th Block, Jayanagar",
+            "street": "183, 16, 5th Main Rd",
+            "postal_code": "560011",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.927573299999999,
+            "longitude": 77.5808079,
+            "h3": "896189259bbffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": "http://www.teavilla.in/",
+            "phone": "+91 63637 13803",
+            "type": "Cafe",
+            "logo": "https://lh4.googleusercontent.com/-9N5c8qQksX0/AAAAAAAAAAI/AAAAAAAAAAA/jW0IMn6ZReU/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe, Restaurant",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.0,
+            "reviews": 5488,
+            "photos_count": 4928,
+            "cid": "5930925426302453924",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJ9p7sAcVrjsRpAgXeEDhTlI&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "5930925426302453924",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPiW5XYSwhynVhDUqaUdlXutT4vCLam5vghKCAW=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipPiW5XYSwhynVhDUqaUdlXutT4vCLam5vghKCAW=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:10:30AM-10:30PM|Tuesday:10:30AM-10:30PM|Wednesday:10:30AM-10:30PM|Thursday:10:30AM-10:30PM|Friday:10:30AM-10:30PM|Saturday:10:30AM-10:30PM|Sunday:10:30AM-10:30PM",
+            "working_hours": {
+                "Monday": "10:30AM-10:30PM",
+                "Tuesday": "10:30AM-10:30PM",
+                "Wednesday": "10:30AM-10:30PM",
+                "Thursday": "10:30AM-10:30PM",
+                "Friday": "10:30AM-10:30PM",
+                "Saturday": "10:30AM-10:30PM",
+                "Sunday": "10:30AM-10:30PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Outdoor seating": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible seating": false
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Small plates": true,
+                    "Vegan options": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true,
+                    "Wi-Fi": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true,
+                    "Romantic": true
+                },
+                "Crowd": {
+                    "Family-friendly": true,
+                    "Groups": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "Debit cards": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true,
+                    "High chairs": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true,
+                    "Parking": true
+                }
+            },
+            "range": "$$$",
+            "reviews_per_score": {
+                "1": 368,
+                "2": 228,
+                "3": 724,
+                "4": 1793,
+                "5": 2375
+            },
+            "reservation_links": [
+                "https://www.dineout.co.in/bangalore/tea-villa-cafe-jayanagar-south-bangalore-184834"
+            ],
+            "booking_appointment_link": "https://www.dineout.co.in/bangalore/tea-villa-cafe-jayanagar-south-bangalore-184834",
+            "menu_link": null,
+            "order_links": [
+                "https://www.dineout.co.in/bangalore/tea-villa-cafe-jayanagar-south-bangalore-184834"
+            ],
+            "owner_id": "101722927499124731014",
+            "verified": true,
+            "owner_title": "Tea Villa Cafe Jayanagar",
+            "owner_link": "https://www.google.com/maps/contrib/101722927499124731014",
+            "location_link": "https://www.google.com/maps/place/Tea+Villa+Cafe+Jayanagar/@12.927573299999999,77.5808079,14z/data=!4m8!1m2!2m1!1sTea+Villa+Cafe+Jayanagar!3m4!1s0x3bae1507b07bda27:0x524ee140781708a4!8m2!3d12.927573299999999!4d77.5808079",
+            "location_reviews_link": "https://www.google.com/maps/place/Tea+Villa+Cafe+Jayanagar/@12.927573299999999,77.5808079,13.99z/data=!4m16!1m7!3m6!1s0x3bae1507b07bda27:0x524ee140781708a4!2sTea+Villa+Cafe+Jayanagar!8m2!3d12.927573299999999!4d77.5808079!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae1507b07bda27:0x524ee140781708a4!8m2!3d12.927573299999999!4d77.5808079!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Secret Spot Cafe",
+            "name_for_emails": "Secret Spot Cafe",
+            "place_id": "ChIJmdY8aAcVrjsRNaRPAtYsHh0",
+            "google_id": "0x3bae1507683cd699:0x1d1e2cd6024fa435",
+            "full_address": "387, 71-4, 11th Main Rd, opposite to max showroom, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+            "borough": "Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar",
+            "street": "387, 71-4, 11th Main Rd, opposite to max showroom",
+            "postal_code": "560011",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.931007,
+            "longitude": 77.5859813,
+            "h3": "8961892598bffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": null,
+            "phone": "+91 89712 85555",
+            "type": "Cafe",
+            "logo": "https://lh5.googleusercontent.com/-sFSuKetTLik/AAAAAAAAAAI/AAAAAAAAAAA/oHW9HyBrtYs/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 3.9,
+            "reviews": 1302,
+            "photos_count": 1179,
+            "cid": "2098163774074627125",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmdY8aAcVrjsRNaRPAtYsHh0&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "2098163774074627125",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNpidGNuXOF5QH1MuukhJCf-N5Vjd8K26qMfFNU=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipNpidGNuXOF5QH1MuukhJCf-N5Vjd8K26qMfFNU=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:10AM-11PM|Tuesday:10AM-11PM|Wednesday:10AM-11PM|Thursday:10AM-11PM|Friday:10AM-11PM|Saturday:10AM-11PM|Sunday:10AM-11PM",
+            "working_hours": {
+                "Monday": "10AM-11PM",
+                "Tuesday": "10AM-11PM",
+                "Wednesday": "10AM-11PM",
+                "Thursday": "10AM-11PM",
+                "Friday": "10AM-11PM",
+                "Saturday": "10AM-11PM",
+                "Sunday": "10AM-11PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Outdoor seating": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Highlights": {
+                    "Live performances": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": false,
+                    "Wheelchair accessible parking lot": false,
+                    "Wheelchair accessible seating": false
+                },
+                "Offerings": {
+                    "Alcohol": true,
+                    "Beer": true,
+                    "Cocktails": true,
+                    "Coffee": true,
+                    "Late-night food": true,
+                    "Small plates": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true,
+                    "Romantic": true
+                },
+                "Crowd": {
+                    "Family-friendly": true,
+                    "Groups": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "Debit cards": true,
+                    "Google Pay": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true
+                },
+                "Parking": {
+                    "Free street parking": true,
+                    "Parking": true
+                }
+            },
+            "range": "$$",
+            "reviews_per_score": {
+                "1": 88,
+                "2": 72,
+                "3": 220,
+                "4": 409,
+                "5": 513
+            },
+            "reservation_links": [
+                "https://www.dineout.co.in/bangalore/secret-spot-cafe-jayanagar-south-bangalore-89392"
+            ],
+            "booking_appointment_link": "https://www.dineout.co.in/bangalore/secret-spot-cafe-jayanagar-south-bangalore-89392",
+            "menu_link": null,
+            "order_links": [
+                "https://www.dineout.co.in/bangalore/secret-spot-cafe-jayanagar-south-bangalore-89392"
+            ],
+            "owner_id": "113284085630425137795",
+            "verified": true,
+            "owner_title": "Secret Spot Cafe",
+            "owner_link": "https://www.google.com/maps/contrib/113284085630425137795",
+            "location_link": "https://www.google.com/maps/place/Secret+Spot+Cafe/@12.931007,77.5859813,14z/data=!4m8!1m2!2m1!1sSecret+Spot+Cafe!3m4!1s0x3bae1507683cd699:0x1d1e2cd6024fa435!8m2!3d12.931007!4d77.5859813",
+            "location_reviews_link": "https://www.google.com/maps/place/Secret+Spot+Cafe/@12.931007,77.5859813,13.99z/data=!4m16!1m7!3m6!1s0x3bae1507683cd699:0x1d1e2cd6024fa435!2sSecret+Spot+Cafe!8m2!3d12.931007!4d77.5859813!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae1507683cd699:0x1d1e2cd6024fa435!8m2!3d12.931007!4d77.5859813!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Third Wave Coffee",
+            "name_for_emails": "Third Wave Coffee",
+            "place_id": "ChIJ9aAFdEkVrjsRV4wLwQo7CkY",
+            "google_id": "0x3bae15497405a0f5:0x460a3b0ac10b8c57",
+            "full_address": "220, 9th Main Rd, 5th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+            "borough": "5th Block, Jayanagar",
+            "street": "220, 9th Main Rd",
+            "postal_code": "560041",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.9210085,
+            "longitude": 77.5835729,
+            "h3": "89618924a5bffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": "https://stores.thirdwavecoffeeroasters.com/store-pages/third-wave-coffee-jayanagar-bengaluru/",
+            "phone": "+91 73490 27575",
+            "type": "Cafe",
+            "logo": "https://lh5.googleusercontent.com/-fCmtOAW9RdE/AAAAAAAAAAI/AAAAAAAAAAA/jtd0MlA9niY/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe, Coffee roasters, Coffee shop, Coffee store",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.5,
+            "reviews": 1975,
+            "photos_count": 1040,
+            "cid": "5046911249796533335",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9aAFdEkVrjsRV4wLwQo7CkY&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "5046911249796533335",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipO5__IQFMXTOXvb576ihkSA_9rnCU80jewrjGCJ=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipO5__IQFMXTOXvb576ihkSA_9rnCU80jewrjGCJ=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:8AM-12AM|Tuesday:8AM-12AM|Wednesday:8AM-12AM|Thursday:8AM-12AM|Friday:8AM-12AM|Saturday:8AM-12AM|Sunday:8AM-12AM",
+            "working_hours": {
+                "Monday": "8AM-12AM",
+                "Tuesday": "8AM-12AM",
+                "Wednesday": "8AM-12AM",
+                "Thursday": "8AM-12AM",
+                "Friday": "8AM-12AM",
+                "Saturday": "8AM-12AM",
+                "Sunday": "8AM-12AM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible seating": true
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Late-night food": true,
+                    "Small plates": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Catering": true,
+                    "Dessert": true
+                },
+                "Amenities": {
+                    "Restroom": true,
+                    "Wi-Fi": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true,
+                    "Romantic": true
+                },
+                "Crowd": {
+                    "Family-friendly": true,
+                    "Groups": true,
+                    "LGBTQ+ friendly": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "Debit cards": true,
+                    "Google Pay": true
+                },
+                "Children": {
+                    "Good for kids": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true,
+                    "Parking": true
+                },
+                "Other": {
+                    "LGBTQ+ friendly": true
+                }
+            },
+            "range": "$$",
+            "reviews_per_score": {
+                "1": 59,
+                "2": 41,
+                "3": 136,
+                "4": 451,
+                "5": 1288
+            },
+            "reservation_links": [
+                "https://cafe.thirdwavecoffee.in/coffee-cafe-bengaluru-south-bengaluru-29944/reserve-table?utm_source=GMB"
+            ],
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": [
+                "https://cafe.thirdwavecoffee.in/coffee-cafe-bengaluru-south-bengaluru-29944/reserve-table?utm_source=GMB"
+            ],
+            "owner_id": "102505679938573190000",
+            "verified": true,
+            "owner_title": "Third Wave Coffee",
+            "owner_link": "https://www.google.com/maps/contrib/102505679938573190000",
+            "location_link": "https://www.google.com/maps/place/Third+Wave+Coffee/@12.9210085,77.5835729,14z/data=!4m8!1m2!2m1!1sThird+Wave+Coffee!3m4!1s0x3bae15497405a0f5:0x460a3b0ac10b8c57!8m2!3d12.9210085!4d77.5835729",
+            "location_reviews_link": "https://www.google.com/maps/place/Third+Wave+Coffee/@12.9210085,77.5835729,13.99z/data=!4m16!1m7!3m6!1s0x3bae15497405a0f5:0x460a3b0ac10b8c57!2sThird+Wave+Coffee!8m2!3d12.9210085!4d77.5835729!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae15497405a0f5:0x460a3b0ac10b8c57!8m2!3d12.9210085!4d77.5835729!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "De Famous Cafe",
+            "name_for_emails": "De Famous Cafe",
+            "place_id": "ChIJJ1VvlcoVrjsRxwwGH27vhrc",
+            "google_id": "0x3bae15ca956f5527:0xb786ef6e1f060cc7",
+            "full_address": "Shop No, 1623, E End Main Rd, 4th T Block East, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560069, India",
+            "borough": "4th T Block East, Jayanagara 9th Block, Jayanagar",
+            "street": "Shop No, 1623, E End Main Rd",
+            "postal_code": "560069",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.9237519,
+            "longitude": 77.597175,
+            "h3": "89618925d73ffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": "http://www.defamouscafe.com/",
+            "phone": "+91 70902 02221",
+            "type": "Cafe",
+            "logo": "https://lh6.googleusercontent.com/-4EipXcM5dKg/AAAAAAAAAAI/AAAAAAAAAAA/M1BQOqYLkP0/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe, Biryani restaurant, Chinese restaurant, Continental restaurant, Restaurant",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.3,
+            "reviews": 333,
+            "photos_count": 249,
+            "cid": "13224520612065971399",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJ1VvlcoVrjsRxwwGH27vhrc&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "-5222223461643580217",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNrSzJj3TCq8lVLMbaMzhjaCHWkaCRye_YJpI9n=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipNrSzJj3TCq8lVLMbaMzhjaCHWkaCRye_YJpI9n=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:10:15AM-12AM|Tuesday:10:15AM-12AM|Wednesday:10:15AM-12AM|Thursday:10:15AM-12AM|Friday:10:15AM-12AM|Saturday:10:15AM-12AM|Sunday:10:15AM-12AM",
+            "working_hours": {
+                "Monday": "10:15AM-12AM",
+                "Tuesday": "10:15AM-12AM",
+                "Wednesday": "10:15AM-12AM",
+                "Thursday": "10:15AM-12AM",
+                "Friday": "10:15AM-12AM",
+                "Saturday": "10:15AM-12AM",
+                "Sunday": "10:15AM-12AM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Curbside pickup": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Drive-through": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": false,
+                    "Wheelchair accessible parking lot": false,
+                    "Wheelchair accessible seating": false
+                },
+                "Offerings": {
+                    "Cocktails": true,
+                    "Coffee": true,
+                    "Happy hour drinks": true,
+                    "Happy hour food": true,
+                    "Hard liquor": true,
+                    "Late-night food": true,
+                    "Organic dishes": true,
+                    "Small plates": true,
+                    "Vegan options": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Gender-neutral restroom": true,
+                    "Restroom": true,
+                    "Wi-Fi": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true
+                },
+                "Crowd": {
+                    "Groups": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true,
+                    "High chairs": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true,
+                    "Parking": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 29,
+                "2": 14,
+                "3": 20,
+                "4": 44,
+                "5": 226
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "107274717351450907293",
+            "verified": true,
+            "owner_title": "De Famous Cafe",
+            "owner_link": "https://www.google.com/maps/contrib/107274717351450907293",
+            "location_link": "https://www.google.com/maps/place/De+Famous+Cafe/@12.9237519,77.597175,14z/data=!4m8!1m2!2m1!1sDe+Famous+Cafe!3m4!1s0x3bae15ca956f5527:0xb786ef6e1f060cc7!8m2!3d12.9237519!4d77.597175",
+            "location_reviews_link": "https://www.google.com/maps/place/De+Famous+Cafe/@12.9237519,77.597175,13.99z/data=!4m16!1m7!3m6!1s0x3bae15ca956f5527:0xb786ef6e1f060cc7!2sDe+Famous+Cafe!8m2!3d12.9237519!4d77.597175!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae15ca956f5527:0xb786ef6e1f060cc7!8m2!3d12.9237519!4d77.597175!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Chaayos Cafe at Jayanagar",
+            "name_for_emails": "Chaayos Cafe At Jayanagar",
+            "place_id": "ChIJkTrPSWEVrjsRNUJpJS_ntBI",
+            "google_id": "0x3bae156149cf3a91:0x12b4e72f25694235",
+            "full_address": "792, 35th Cross Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+            "borough": "4th Block, Jayanagar",
+            "street": "792, 35th Cross Rd",
+            "postal_code": "560011",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.924749199999999,
+            "longitude": 77.5839278,
+            "h3": "89618925987ffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": "http://www.chaayos.com/",
+            "phone": "+91 76784 28903",
+            "type": "Cafe",
+            "logo": "https://lh4.googleusercontent.com/-xKqtJS8rnZQ/AAAAAAAAAAI/AAAAAAAAAAA/x0hZJ1kMm2U/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.1,
+            "reviews": 431,
+            "photos_count": 198,
+            "cid": "1347956378167755317",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkTrPSWEVrjsRNUJpJS_ntBI&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "1347956378167755317",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPsAG9deZ7xLC6_AQrb35w0m1wDRP2NuP_zmF21=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipPsAG9deZ7xLC6_AQrb35w0m1wDRP2NuP_zmF21=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:8AM-11PM|Tuesday:8AM-11PM|Wednesday:8AM-11PM|Thursday:8AM-11PM|Friday:8AM-11PM|Saturday:8AM-11PM|Sunday:8AM-11PM",
+            "working_hours": {
+                "Monday": "8AM-11PM",
+                "Tuesday": "8AM-11PM",
+                "Wednesday": "8AM-11PM",
+                "Thursday": "8AM-11PM",
+                "Friday": "8AM-11PM",
+                "Saturday": "8AM-11PM",
+                "Sunday": "8AM-11PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Outdoor seating": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": false
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Small plates": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Atmosphere": {
+                    "Casual": true
+                },
+                "Crowd": {
+                    "Family-friendly": true,
+                    "Groups": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "Debit cards": true,
+                    "Google Pay": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true
+                }
+            },
+            "range": "$$",
+            "reviews_per_score": {
+                "1": 41,
+                "2": 16,
+                "3": 37,
+                "4": 92,
+                "5": 245
+            },
+            "reservation_links": [
+                "https://www.eazydiner.com/bengaluru/chaayos-jayanagar-south-bengaluru-684385"
+            ],
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": [
+                "https://www.eazydiner.com/bengaluru/chaayos-jayanagar-south-bengaluru-684385"
+            ],
+            "owner_id": "118265274865150151366",
+            "verified": true,
+            "owner_title": "Chaayos Cafe at Jayanagar",
+            "owner_link": "https://www.google.com/maps/contrib/118265274865150151366",
+            "location_link": "https://www.google.com/maps/place/Chaayos+Cafe+at+Jayanagar/@12.924749199999999,77.5839278,14z/data=!4m8!1m2!2m1!1sChaayos+Cafe+at+Jayanagar!3m4!1s0x3bae156149cf3a91:0x12b4e72f25694235!8m2!3d12.924749199999999!4d77.5839278",
+            "location_reviews_link": "https://www.google.com/maps/place/Chaayos+Cafe+at+Jayanagar/@12.924749199999999,77.5839278,13.99z/data=!4m16!1m7!3m6!1s0x3bae156149cf3a91:0x12b4e72f25694235!2sChaayos+Cafe+at+Jayanagar!8m2!3d12.924749199999999!4d77.5839278!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae156149cf3a91:0x12b4e72f25694235!8m2!3d12.924749199999999!4d77.5839278!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Alchemy Coffee Roasters",
+            "name_for_emails": "Alchemy Coffee Roasters",
+            "place_id": "ChIJQ3MhQ54VrjsRwYjN_gK8FtU",
+            "google_id": "0x3bae159e43217343:0xd516bc02fecd88c1",
+            "full_address": "36th Cross Rd, 5th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+            "borough": "5th Block, Jayanagar",
+            "street": "36th Cross Rd",
+            "postal_code": "560041",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.9232172,
+            "longitude": 77.5809448,
+            "h3": "89618924a4bffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": null,
+            "phone": "+91 87624 73937",
+            "type": "Coffee shop",
+            "logo": "https://lh6.googleusercontent.com/-7SWCNwzqDVM/AAAAAAAAAAI/AAAAAAAAAAA/OGZR1lD8VbU/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "coffee shops",
+            "subtypes": "Coffee shop, Cafe, Restaurant",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.2,
+            "reviews": 5442,
+            "photos_count": 4656,
+            "cid": "15354666700617124033",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ3MhQ54VrjsRwYjN_gK8FtU&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "-3092077373092427583",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNivE8qbTTz8HVyLXLpyCBrblw9kkfHJIPS2rFA=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipNivE8qbTTz8HVyLXLpyCBrblw9kkfHJIPS2rFA=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:10AM-10:30PM|Tuesday:11AM-10:30PM|Wednesday:10AM-10:30PM|Thursday:10AM-10:30PM|Friday:10AM-10:30PM|Saturday:9AM-10:30PM|Sunday:9AM-10:30PM",
+            "working_hours": {
+                "Monday": "10AM-10:30PM",
+                "Tuesday": "11AM-10:30PM",
+                "Wednesday": "10AM-10:30PM",
+                "Thursday": "10AM-10:30PM",
+                "Friday": "10AM-10:30PM",
+                "Saturday": "9AM-10:30PM",
+                "Sunday": "9AM-10:30PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Outdoor seating": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Highlights": {
+                    "Fast service": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": false,
+                    "Wheelchair accessible parking lot": false,
+                    "Wheelchair accessible seating": false
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Quick bite": true,
+                    "Small plates": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true,
+                    "Romantic": true
+                },
+                "Crowd": {
+                    "Groups": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true,
+                    "High chairs": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true,
+                    "Parking": true
+                }
+            },
+            "range": "$$",
+            "reviews_per_score": {
+                "1": 133,
+                "2": 135,
+                "3": 585,
+                "4": 2013,
+                "5": 2576
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "117086165124585402806",
+            "verified": true,
+            "owner_title": "Alchemy Coffee Roasters",
+            "owner_link": "https://www.google.com/maps/contrib/117086165124585402806",
+            "location_link": "https://www.google.com/maps/place/Alchemy+Coffee+Roasters/@12.9232172,77.5809448,14z/data=!4m8!1m2!2m1!1sAlchemy+Coffee+Roasters!3m4!1s0x3bae159e43217343:0xd516bc02fecd88c1!8m2!3d12.9232172!4d77.5809448",
+            "location_reviews_link": "https://www.google.com/maps/place/Alchemy+Coffee+Roasters/@12.9232172,77.5809448,13.99z/data=!4m16!1m7!3m6!1s0x3bae159e43217343:0xd516bc02fecd88c1!2sAlchemy+Coffee+Roasters!8m2!3d12.9232172!4d77.5809448!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae159e43217343:0xd516bc02fecd88c1!8m2!3d12.9232172!4d77.5809448!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Willys Top Cafe",
+            "name_for_emails": "Willys Top Cafe",
+            "place_id": "ChIJxWgDKAkVrjsRwurYknVa4Yg",
+            "google_id": "0x3bae1509280368c5:0x88e15a7592d8eac2",
+            "full_address": "23, 3rd Floor, 26th Main Rd, opposite Ragigudda arch, Putlanpalya, Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+            "borough": "Putlanpalya, Jayanagara 9th Block, Jayanagar",
+            "street": "23, 3rd Floor, 26th Main Rd, opposite Ragigudda arch",
+            "postal_code": "560041",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.917005999999999,
+            "longitude": 77.5934438,
+            "h3": "89618925d07ffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": null,
+            "phone": "+91 77958 39478",
+            "type": "Cafe",
+            "logo": "https://lh3.googleusercontent.com/-iMYHaKAoBIQ/AAAAAAAAAAI/AAAAAAAAAAA/brKun75E99s/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 3.6,
+            "reviews": 651,
+            "photos_count": 717,
+            "cid": "9863264119939459778",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJxWgDKAkVrjsRwurYknVa4Yg&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "-8583479953770091838",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNve9YMLxwizJXueAJnh7pCAEmTw_b2lwUlNhb5=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipNve9YMLxwizJXueAJnh7pCAEmTw_b2lwUlNhb5=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:11AM-10:30PM|Tuesday:11AM-10:30PM|Wednesday:11AM-10:30PM|Thursday:11AM-10:30PM|Friday:11AM-10:30PM|Saturday:11AM-10:30PM|Sunday:11AM-10:30PM",
+            "working_hours": {
+                "Monday": "11AM-10:30PM",
+                "Tuesday": "11AM-10:30PM",
+                "Wednesday": "11AM-10:30PM",
+                "Thursday": "11AM-10:30PM",
+                "Friday": "11AM-10:30PM",
+                "Saturday": "11AM-10:30PM",
+                "Sunday": "11AM-10:30PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": false,
+                    "Wheelchair accessible parking lot": false,
+                    "Wheelchair accessible seating": false
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Small plates": true
+                },
+                "Dining options": {
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true
+                },
+                "Crowd": {
+                    "Groups": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "High chairs": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 114,
+                "2": 48,
+                "3": 96,
+                "4": 137,
+                "5": 256
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "109841852812624765204",
+            "verified": true,
+            "owner_title": "Willys Top Cafe",
+            "owner_link": "https://www.google.com/maps/contrib/109841852812624765204",
+            "location_link": "https://www.google.com/maps/place/Willys+Top+Cafe/@12.917005999999999,77.5934438,14z/data=!4m8!1m2!2m1!1sWillys+Top+Cafe!3m4!1s0x3bae1509280368c5:0x88e15a7592d8eac2!8m2!3d12.917005999999999!4d77.5934438",
+            "location_reviews_link": "https://www.google.com/maps/place/Willys+Top+Cafe/@12.917005999999999,77.5934438,13.99z/data=!4m16!1m7!3m6!1s0x3bae1509280368c5:0x88e15a7592d8eac2!2sWillys+Top+Cafe!8m2!3d12.917005999999999!4d77.5934438!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae1509280368c5:0x88e15a7592d8eac2!8m2!3d12.917005999999999!4d77.5934438!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Cafe Levista",
+            "name_for_emails": "Cafe Levista",
+            "place_id": "ChIJR8x07goVrjsRSl71BRkZjVM",
+            "google_id": "0x3bae150aee74cc47:0x538d191905f55e4a",
+            "full_address": "Jayanagar 4th Block 30th Cross Road, 7th Main Rd, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+            "borough": "4th Block, Jayanagar",
+            "street": "Jayanagar 4th Block 30th Cross Road, 7th Main Rd",
+            "postal_code": "560011",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.9287352,
+            "longitude": 77.5802856,
+            "h3": "896189259bbffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": null,
+            "phone": null,
+            "type": "Coffee shop",
+            "logo": null,
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "coffee shops",
+            "subtypes": "Coffee shop",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.3,
+            "reviews": 125,
+            "photos_count": 32,
+            "cid": "6020495872129064522",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR8x07goVrjsRSl71BRkZjVM&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "6020495872129064522",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNPx9NlZ0S-honzwF3OmUlkKVlpX-B9NT2yfngB=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipNPx9NlZ0S-honzwF3OmUlkKVlpX-B9NT2yfngB=w1600-h1000-k-no",
+            "working_hours_old_format": null,
+            "working_hours": null,
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Small plates": true
+                },
+                "Dining options": {
+                    "Breakfast": true
+                },
+                "Atmosphere": {
+                    "Casual": true
+                },
+                "Crowd": {
+                    "Groups": true
+                },
+                "Payments": {
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true
+                }
+            },
+            "range": null,
+            "reviews_per_score": {
+                "1": 18,
+                "2": 1,
+                "3": 1,
+                "4": 12,
+                "5": 93
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": null,
+            "verified": false,
+            "owner_title": "Cafe Levista",
+            "owner_link": null,
+            "location_link": "https://www.google.com/maps/place/Cafe+Levista/@12.9287352,77.5802856,14z/data=!4m8!1m2!2m1!1sCafe+Levista!3m4!1s0x3bae150aee74cc47:0x538d191905f55e4a!8m2!3d12.9287352!4d77.5802856",
+            "location_reviews_link": "https://www.google.com/maps/place/Cafe+Levista/@12.9287352,77.5802856,13.99z/data=!4m16!1m7!3m6!1s0x3bae150aee74cc47:0x538d191905f55e4a!2sCafe+Levista!8m2!3d12.9287352!4d77.5802856!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae150aee74cc47:0x538d191905f55e4a!8m2!3d12.9287352!4d77.5802856!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "The Caffeine Baar Cafe & Roastery",
+            "name_for_emails": "The Caffeine Baar Cafe And Roastery",
+            "place_id": "ChIJjw0egu8VrjsRcRPz_i3eUO4",
+            "google_id": "0x3bae15ef821e0d8f:0xee50de2dfef31371",
+            "full_address": "The Caffeine Baar, 1424/81, S End A Cross Rd, KSRTC Layout, Jayanagara 9th Block, J. P. Nagar, Bengaluru, Karnataka 560069, India",
+            "borough": "KSRTC Layout, Jayanagara 9th Block, J. P. Nagar",
+            "street": "The Caffeine Baar, 1424/81, S End A Cross Rd",
+            "postal_code": "560069",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.916431,
+            "longitude": 77.59279029999999,
+            "h3": "89618925d33ffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": "https://www.thecaffeinebaar.com/",
+            "phone": "+91 96114 94141",
+            "type": "Cafe",
+            "logo": "https://lh3.googleusercontent.com/-KWbBCJtoQK4/AAAAAAAAAAI/AAAAAAAAAAA/zDegkrfvNq0/s44-p-k-no-ns-nd/photo.jpg",
+            "description": "Industrial-chic cafe offering light fare such as pastries & sandwiches, plus gourmet coffee.",
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe, Bakery, Breakfast restaurant, Coffee roasters, Coffee shop, Coffee store, Dessert shop, English restaurant, Restaurant",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.2,
+            "reviews": 1026,
+            "photos_count": 1875,
+            "cid": "17172469668295938929",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjw0egu8VrjsRcRPz_i3eUO4&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "-1274274405413612687",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPSmnXPXC4ntl4eNL2sR-GjkKdC_eMKHuJLr7-S=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipPSmnXPXC4ntl4eNL2sR-GjkKdC_eMKHuJLr7-S=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:8AM-11PM|Tuesday:8AM-11PM|Wednesday:8AM-11PM|Thursday:8AM-11PM|Friday:8AM-11PM|Saturday:8AM-11PM|Sunday:8AM-11PM",
+            "working_hours": {
+                "Monday": "8AM-11PM",
+                "Tuesday": "8AM-11PM",
+                "Wednesday": "8AM-11PM",
+                "Thursday": "8AM-11PM",
+                "Friday": "8AM-11PM",
+                "Saturday": "8AM-11PM",
+                "Sunday": "8AM-11PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "From the business": {
+                    "Identifies as women-owned": true
+                },
+                "Service options": {
+                    "Outdoor seating": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Highlights": {
+                    "Live performances": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible entrance": true,
+                    "Wheelchair accessible parking lot": true,
+                    "Wheelchair accessible seating": true
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Prepared foods": true,
+                    "Small plates": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true,
+                    "Wi-Fi": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true
+                },
+                "Crowd": {
+                    "Family-friendly": true,
+                    "Groups": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "Debit cards": true,
+                    "Google Pay": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true,
+                    "High chairs": true,
+                    "Kids' menu": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true
+                },
+                "Other": {
+                    "Identifies as women-owned": true
+                }
+            },
+            "range": "$$",
+            "reviews_per_score": {
+                "1": 59,
+                "2": 34,
+                "3": 98,
+                "4": 289,
+                "5": 546
+            },
+            "reservation_links": [
+                "https://www.eazydiner.com/bengaluru/the-caffeine-baar-jayanagar-south-bengaluru-683301",
+                "https://www.dineout.co.in/bangalore/the-caffeine-baar-jayanagar-south-bangalore-87469"
+            ],
+            "booking_appointment_link": "https://www.eazydiner.com/bengaluru/the-caffeine-baar-jayanagar-south-bengaluru-683301",
+            "menu_link": null,
+            "order_links": [
+                "https://www.eazydiner.com/bengaluru/the-caffeine-baar-jayanagar-south-bengaluru-683301",
+                "https://www.dineout.co.in/bangalore/the-caffeine-baar-jayanagar-south-bangalore-87469"
+            ],
+            "owner_id": "101376608651548519747",
+            "verified": true,
+            "owner_title": "The Caffeine Baar Cafe & Roastery",
+            "owner_link": "https://www.google.com/maps/contrib/101376608651548519747",
+            "location_link": "https://www.google.com/maps/place/The+Caffeine+Baar+Cafe+%26+Roastery/@12.916431,77.59279029999999,14z/data=!4m8!1m2!2m1!1sThe+Caffeine+Baar+Cafe+%26+Roastery!3m4!1s0x3bae15ef821e0d8f:0xee50de2dfef31371!8m2!3d12.916431!4d77.59279029999999",
+            "location_reviews_link": "https://www.google.com/maps/place/The+Caffeine+Baar+Cafe+%26+Roastery/@12.916431,77.59279029999999,13.99z/data=!4m16!1m7!3m6!1s0x3bae15ef821e0d8f:0xee50de2dfef31371!2sThe+Caffeine+Baar+Cafe+%26+Roastery!8m2!3d12.916431!4d77.59279029999999!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae15ef821e0d8f:0xee50de2dfef31371!8m2!3d12.916431!4d77.59279029999999!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        },
+        {
+            "query": "cafes in jayanagar",
+            "name": "Caf\u00e9 Coffee Day",
+            "name_for_emails": "Caf\u00e9 Coffee Day",
+            "place_id": "ChIJuUsAoaIVrjsR0r-R7DxEyJg",
+            "google_id": "0x3bae15a2a1004bb9:0x98c8443cec91bfd2",
+            "full_address": "Brigade Homestead, Grnd Flr, No. 261/A 10th Main, Ashoka Pillar Rd, 2nd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+            "borough": "2nd Block, Jayanagar",
+            "street": "Brigade Homestead, Grnd Flr, No. 261/A 10th Main, Ashoka Pillar Rd",
+            "postal_code": "560011",
+            "area_service": false,
+            "country_code": "IN",
+            "country": "India",
+            "city": "Bengaluru",
+            "us_state": null,
+            "state": "Karnataka",
+            "plus_code": null,
+            "latitude": 12.9433624,
+            "longitude": 77.5849478,
+            "h3": "8961892594bffff",
+            "time_zone": "Asia/Calcutta",
+            "popular_times": null,
+            "site": "https://jayanagar.cafecoffeeday.com/",
+            "phone": "+91 1800 102 5093",
+            "type": "Cafe",
+            "logo": "https://lh5.googleusercontent.com/-Z82uETchoS4/AAAAAAAAAAI/AAAAAAAAAAA/CwecSLS3NvM/s44-p-k-no-ns-nd/photo.jpg",
+            "description": null,
+            "typical_time_spent": null,
+            "located_in": null,
+            "located_google_id": null,
+            "category": "cafes",
+            "subtypes": "Cafe, Coffee shop, Takeout Restaurant, Pastry shop, Restaurant, Sandwich shop",
+            "posts": null,
+            "reviews_tags": null,
+            "rating": 4.0,
+            "reviews": 2235,
+            "photos_count": 593,
+            "cid": "11009124317564878802",
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuUsAoaIVrjsR0r-R7DxEyJg&q=cafes+in+jayanagar&authuser=0&hl=en&gl=US",
+            "reviews_id": "-7437619756144672814",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOzFNQlznU4Bk-ZbaFo9oc2ZaVGXttwTvi1oj6F=w800-h500-k-no",
+            "street_view": "https://lh5.googleusercontent.com/p/AF1QipOzFNQlznU4Bk-ZbaFo9oc2ZaVGXttwTvi1oj6F=w1600-h1000-k-no",
+            "working_hours_old_format": "Monday:8:30AM-11:30PM|Tuesday:8:30AM-11:30PM|Wednesday:8:30AM-11:30PM|Thursday:8:30AM-11:30PM|Friday:8:30AM-11:30PM|Saturday:8:30AM-11:30PM|Sunday:8:30AM-11:30PM",
+            "working_hours": {
+                "Monday": "8:30AM-11:30PM",
+                "Tuesday": "8:30AM-11:30PM",
+                "Wednesday": "8:30AM-11:30PM",
+                "Thursday": "8:30AM-11:30PM",
+                "Friday": "8:30AM-11:30PM",
+                "Saturday": "8:30AM-11:30PM",
+                "Sunday": "8:30AM-11:30PM"
+            },
+            "other_hours": null,
+            "business_status": "OPERATIONAL",
+            "about": {
+                "Service options": {
+                    "Outdoor seating": true,
+                    "No-contact delivery": true,
+                    "Delivery": true,
+                    "Takeout": true,
+                    "Dine-in": true
+                },
+                "Highlights": {
+                    "Fast service": true
+                },
+                "Accessibility": {
+                    "Wheelchair accessible parking lot": false,
+                    "Wheelchair accessible restroom": false,
+                    "Wheelchair accessible seating": false
+                },
+                "Offerings": {
+                    "Coffee": true,
+                    "Healthy options": true,
+                    "Prepared foods": true,
+                    "Quick bite": true,
+                    "Small plates": true,
+                    "Vegetarian options": true
+                },
+                "Dining options": {
+                    "Breakfast": true,
+                    "Brunch": true,
+                    "Lunch": true,
+                    "Dinner": true,
+                    "Dessert": true,
+                    "Seating": true
+                },
+                "Amenities": {
+                    "Restroom": true,
+                    "Wi-Fi": true
+                },
+                "Atmosphere": {
+                    "Casual": true,
+                    "Cozy": true
+                },
+                "Crowd": {
+                    "Family-friendly": true,
+                    "Groups": true,
+                    "LGBTQ+ friendly": true
+                },
+                "Planning": {
+                    "Accepts reservations": true
+                },
+                "Payments": {
+                    "Credit cards": true,
+                    "Debit cards": true,
+                    "Google Pay": true,
+                    "NFC mobile payments": true
+                },
+                "Children": {
+                    "Good for kids": true
+                },
+                "Parking": {
+                    "Free parking lot": true,
+                    "Free street parking": true,
+                    "Parking": true
+                },
+                "Other": {
+                    "LGBTQ+ friendly": true
+                }
+            },
+            "range": "$$",
+            "reviews_per_score": {
+                "1": 115,
+                "2": 78,
+                "3": 345,
+                "4": 755,
+                "5": 942
+            },
+            "reservation_links": null,
+            "booking_appointment_link": null,
+            "menu_link": null,
+            "order_links": null,
+            "owner_id": "113831867630393154805",
+            "verified": true,
+            "owner_title": "Caf\u00e9 Coffee Day",
+            "owner_link": "https://www.google.com/maps/contrib/113831867630393154805",
+            "location_link": "https://www.google.com/maps/place/Caf%C3%A9+Coffee+Day/@12.9433624,77.5849478,14z/data=!4m8!1m2!2m1!1sCaf%C3%A9+Coffee+Day!3m4!1s0x3bae15a2a1004bb9:0x98c8443cec91bfd2!8m2!3d12.9433624!4d77.5849478",
+            "location_reviews_link": "https://www.google.com/maps/place/Caf%C3%A9+Coffee+Day/@12.9433624,77.5849478,13.99z/data=!4m16!1m7!3m6!1s0x3bae15a2a1004bb9:0x98c8443cec91bfd2!2sCaf%C3%A9+Coffee+Day!8m2!3d12.9433624!4d77.5849478!16s%2Fg%2F11ckvg1dmb!3m7!1s0x3bae15a2a1004bb9:0x98c8443cec91bfd2!8m2!3d12.9433624!4d77.5849478!9m1!1b1!16s%2Fg%2F11ckvg1dmb?entry=ttu"
+        }
+    ]
+]
