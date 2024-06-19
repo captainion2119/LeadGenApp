@@ -1,6 +1,8 @@
 from outscraper import ApiClient
 import json
 import webbrowser
+import pandas as pd
+from datetime import datetime
 
 from dotenv import load_dotenv
 import os
@@ -29,10 +31,10 @@ def clean():
                 "price_range": item.get("range"),
                 "location": item.get("full_address"),
                 "reviews": item.get("reviews_per_score"),
-                "link": item.get("location_link")
+                "link": item.get("location_link"),
+                "photo_count": item.get("photos_count"),
             }
             extracted_data.append(extracted_item)
-    
     return extracted_data
 
 def open_link(lead_name_search):
@@ -72,3 +74,17 @@ def get_min_max(data):
     min_value = data[min_key]
     return max_key, max_value, min_key, min_value
     
+
+def export_excel():
+   output_dir = "outputData"
+   if not os.path.exists(output_dir):
+       os.makedirs(output_dir)
+    
+   timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+   filename = f"{output_dir}/dataOutStream_{timestamp}.xlsx"
+
+   data = clean()
+   df = pd.DataFrame(data)
+   df.to_excel(filename, index=False)
+   os.startfile(f"C:/Users/Adithyakarthik/OneDrive/Documents/work/Lead-Gen-Tool/outputData/dataOutStream_{timestamp}.xlsx")
+
